@@ -11,5 +11,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         Log.e("TQQ", "onCreate: "+"第一次提交" );
+        Log.e("TQQ++++++++", "onCreate: "+"第二次提交" );
     }
 }
